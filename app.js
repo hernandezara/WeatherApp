@@ -134,7 +134,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
                 forecastContent += `
                     <div>
-                        <p>Date: ${dayOfWeek}</p>
+                        <p>Day: ${dayOfWeek}</p>
                         <p>Min Temperature: ${temperatureMin}°C</p>
                         <p>Max Temperature: ${temperatureMax}°C</p>
                         <p>Weather: ${weather}</p>
